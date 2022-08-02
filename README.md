@@ -6,4 +6,4 @@ This script is used to check the functioning of TFmini Plus LiDAR Module. Rx Pin
 
 servo_angle Script
 
-This Script is used to rotate a servo motor from 0 to 60 and vice versa. 
+This Script is used to rotate a servo motor from 0 to 90 and vice versa. Servo signal pin is attached to pin9. 
